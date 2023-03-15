@@ -1,5 +1,5 @@
 ime_datoteke = input()
-directory = "C:\\Users\\student\\Documents\\miki\\lv1\\4z\\" + ime_datoteke
+directory = "C:\\Users\\student\\Documents\\student\\lv1\\4z\\" + ime_datoteke
 datoteka = open(directory, 'r')
 suma = 0
 br = 0
