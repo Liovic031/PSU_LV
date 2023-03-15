@@ -1,4 +1,4 @@
-datoteka = open("C:\\Users\\student\\Documents\\miki\\lv1\\6z\\SMSSpamCollection.txt", 'r')
+datoteka = open("C:\\Users\\student\\Documents\\student1\\lv1\\6z\\SMSSpamCollection.txt", 'r')
 
 br_ham = 0
 br_spam = 0
