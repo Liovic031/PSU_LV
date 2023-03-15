@@ -1,4 +1,4 @@
-datoteka = open("C:\\Users\\student\\Documents\\student\\lv1\\5z\\song.txt", 'r')
+datoteka = open("C:\\Users\\student\\Documents\\student1\\lv1\\5z\\song.txt", 'r')
 
 rijecnik = {}
 
